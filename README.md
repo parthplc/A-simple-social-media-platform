@@ -6,6 +6,6 @@ It is a website development project made as group effort.The project provided a 
 experience for us.We used web technology such as HTML,CSS,PHP and MySQL.
 
 # Members
-Parth Chokhra
-Arnav Nigam
-Manav Goyal
+1.Parth Chokhra<br>
+2.Arnav Nigam<br>
+3.Manav Goyal
